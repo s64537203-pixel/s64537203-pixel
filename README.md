@@ -62,10 +62,14 @@ An end-to-end Machine Learning project that predicts whether a shipment will be 
 - ⚙️ Feature engineering and selection  
 - 🤖 Model training with XGBoost  
 - 📈 Model evaluation and tuning  
-- 🌐 Streamlit web app for predictions  
+- 🌐 Streamlit web app for predictions
+- **Tech Stack:** Python • Pandas • NumPy • Scikit-learn • XGBoost • Streamlit • Matplotlib • Seaborn  
 
-**Tech Stack:** Python • Pandas • NumPy • Scikit-learn • XGBoost • Streamlit • Matplotlib • Seaborn  
-
+  ### brain_tumor_prediction
+   - upload image and get predicted through model
+  - give a Grad-Cam image also
+ 
+    **Tech-stack:** python,pytorch,transfer learning,Grad-Cam
 ---
 
 ## 📊 GitHub Stats
