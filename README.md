@@ -1,29 +1,46 @@
-# 👋 Hi, I'm Sheetal
 
-### 🚀 Aspiring Machine Learning Engineer
+👋 Hi, I'm Sheetal
+🤖 AI/ML Enthusiast | 🧠 Building AI Projects | 🚀 Learning by Building
 
-I enjoy solving real-world problems with data and Machine Learning. Currently focused on building practical projects and improving my skills through hands-on learning.
+I’m a student exploring Artificial Intelligence, Machine Learning & NLP — and I learn best by turning ideas into working projects.
 
----
+Learn → Build → Break → Fix → Repeat 🔁
 
-## 💫 About Me
+🛠️ What I Work With
 
-- 🧠 Passionate about Machine Learning and Data Science  
-- 💻 Love building end-to-end ML projects  
-- 📊 Interested in data analysis, feature engineering, and model optimization  
-- 🌱 Always learning through hands-on projects  
+Languages & Tools
 
----
+Python C++ TypeScript Git GitHub
+
+AI / ML
+
+Machine Learning Deep Learning NLP Computer Vision AI Agents
+
+Currently Exploring
+
+RAG Transformers On-Device AI Browser Automation
+
+📰 NewsPulse
+
+An AI-powered news application exploring:
+
+NLP + RAG + Transformers
+
+→ Short headlines
+→ Detailed AI summaries
+→ Multi-domain news exploration
 
 ## 🛠️ Tech Stack
 
 **Languages**
 - Python  
-- SQL  
+- SQL
+  
 
 **Machine Learning**
 - Scikit-learn  
-- XGBoost  
+- XGBoost
+- NLP
 
 **Data Analysis**
 - Pandas  
@@ -41,13 +58,9 @@ I enjoy solving real-world problems with data and Machine Learning. Currently fo
 
 ---
 
-## 🚀 Current Focus
+🌱 My Goal
 
-- Building real-world Machine Learning projects  
-- Strengthening feature engineering skills  
-- Writing clean and maintainable code  
-- Exploring open-source projects  
-
+Build useful, privacy-aware and intelligent AI systems — while continuously improving my fundamentals.
 ---
 
 ## 📂 Featured Project
@@ -70,6 +83,15 @@ An end-to-end Machine Learning project that predicts whether a shipment will be 
   - give a Grad-Cam image also
  
     **Tech-stack:** python,pytorch,transfer learning,Grad-Cam
+
+###🤖 Browser Agent
+
+Privacy-focused lightweight browser agent prototype exploring:
+
+UI Perception → Privacy Layer → Local AI → Browser Action
+
+Prototype built around the On-device Visual Perception for Lightweight Browser Agents concept.
+
 ---
 
 ## 📊 GitHub Stats
